@@ -15,7 +15,11 @@ It is generally considered challenging to decide whether two questions are inten
 | LJ LSTM Modelling.ipynb | customized siamese LSTM    |
 | Model Experiment.ipynb | Hyperparameter Tuning |
 
+
+
 ## LJ LSTM Model Structure: 
+
+
 ![alt text][logo]
 
 [logo]: https://github.com/jielulovesdessert/NLP_quora_duplicates_detection/blob/master/image/model_structure.png
